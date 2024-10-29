@@ -4,7 +4,6 @@ import pandas
 import random
 import smtplib
 
-print('HELLO :)')
 MY_EMAIL = "roudasaffuri@gmail.com"
 MY_PASSWORD = "**** **** **** ****"
 
